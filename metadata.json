@@ -46,6 +46,7 @@
     {
       "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
+        "18.04",
         "16.04",
         "14.04"
       ]
